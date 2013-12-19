@@ -9,6 +9,6 @@
   },
   "main": "./src/http-auth-interceptor.js",
   "dependencies": {
-    "angular": "^v1.2.4"
+    "angular/bower-angular": "^v1.2.4"
   }
 }
