@@ -8,7 +8,4 @@
     "url": "git://github.com/fedenunez/angular-http-auth.git"
   },
   "main": "./src/http-auth-interceptor.js",
-  "dependencies": {
-    "angular/bower-angular": "^v1.2.4"
-  }
 }
