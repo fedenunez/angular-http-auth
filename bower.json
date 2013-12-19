@@ -7,5 +7,5 @@
     "type": "git",
     "url": "git://github.com/fedenunez/angular-http-auth.git"
   },
-  "main": "./src/http-auth-interceptor.js",
+  "main": "./src/http-auth-interceptor.js"
 }
